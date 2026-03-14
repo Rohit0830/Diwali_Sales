@@ -1,0 +1,1 @@
+This folder contains the raw, unprocessed Diwali sales data. The data includes original transaction records from the Diwali sales period, stored in CSV format before any cleaning or analysis.

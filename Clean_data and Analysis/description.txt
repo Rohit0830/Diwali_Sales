@@ -1,0 +1,1 @@
+This folder contains the cleaned and processed Diwali sales data, ready for analysis. The data has been cleaned to remove inconsistencies, handle missing values, and prepare it for visualization and insights generation. Includes the processed Excel file with analysis-ready data.
